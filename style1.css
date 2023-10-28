@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+head,body{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+/* h3{
+    color: red;
+    font-size: medium;
+} */
+
+h4{
+color: blueviolet;
+}
+p{
+color: blue;
+}
+button{
+    color: aqua;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 40px;
+}
